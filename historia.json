@@ -1,0 +1,50 @@
+{
+  "intro": {
+    "nombre": "Francis Capellán",
+    "origen": "Limón, Costa Rica",
+    "resumen": "Francis Capellán es una chef limonense que combina tradición y creatividad. Su cocina honra el Caribe con productos frescos, especias aromáticas y un toque propio que transforma cada plato en una experiencia cercana y memorable."
+  },
+  "timeline": [
+    {
+      "anio": "2015",
+      "titulo": "Raíces en Limón",
+      "descripcion": "Aprende en familia los sabores del Caribe: coco, especias y hierbas que la inspiran hasta hoy.",
+      "tags": ["Limonense", "Cocina Caribeña", "Tradición"]
+    },
+    {
+      "anio": "2018",
+      "titulo": "Chef Privado",
+      "descripcion": "Inicia servicios a domicilio con menús personalizados y sello caribeño.",
+      "tags": ["Chef Privado", "Menú a medida"]
+    },
+    {
+      "anio": "2020",
+      "titulo": "De Limón a Alajuela",
+      "descripcion": "Comparte su propuesta caribeña con nuevos públicos, manteniendo la frescura y el color.",
+      "tags": ["Alajuela", "Nuevos clientes"]
+    },
+    {
+      "anio": "2023",
+      "titulo": "Catering y eventos",
+      "descripcion": "Amplía el servicio a eventos corporativos y celebraciones, con puntualidad y calidez.",
+      "tags": ["Catering", "Eventos"]
+    },
+    {
+      "anio": "2024",
+      "titulo": "Menú con identidad",
+      "descripcion": "Consolida un menú que mezcla clásicos caseros con creaciones Caribe: ceviche caribeño, chifrijo con mojo, tacos, hamburguesas y más.",
+      "tags": ["Menú", "Creatividad", "Caribe"]
+    }
+  ],
+  "mision": "Crear experiencias culinarias con esencia caribeña, utilizando productos frescos y técnicas honestas, brindando un servicio cercano y respetuoso en cada evento o servicio a domicilio.",
+  "vision": "Ser un referente local en gastronomía con identidad caribeña, reconocida por su sabor, calidez y atención personalizada.",
+  "objetivos": [
+    "Mantener la frescura y calidad de los insumos.",
+    "Ofrecer menús personalizados y balanceados.",
+    "Garantizar puntualidad y excelente servicio.",
+    "Promover la cultura caribeña en cada plato.",
+    "Innovar con preparaciones que sorprendan.",
+    "Cuidar el ambiente con prácticas responsables."
+  ],
+  "valores": ["Calidez", "Respeto", "Honestidad", "Creatividad", "Puntualidad", "Servicio"]
+}

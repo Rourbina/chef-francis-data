@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Súper Hot Dog",
+    "precio_crc": 4000,
+    "img": "assets/img/galeria/hotdog.jpg",
+    "desc": "Pan artesanal, salchicha, carne, pepino encurtido, mix de repollo, cheddar, salsas y papas."
+  },
+  {
+    "id": 2,
+    "nombre": "Hamburguesa artesanal",
+    "precio_crc": 5000,
+    "img": "assets/img/galeria/hamburguesa.jpg",
+    "desc": "100% artesanal con res o cerdo, queso americano, salsa de la casa, pepinos encurtidos, repollo, lechuga, tomate y cebolla caramelizada. Acompañada de papas fritas."
+  },
+  {
+    "id": 3,
+    "nombre": "Papas fritas",
+    "precio_crc": 2000,
+    "img": "assets/img/galeria/papa-frita.jpg",
+    "desc": "Papas fritas crujientes con sal y aderezo de la casa."
+  },
+  {
+    "id": 4,
+    "nombre": "Monster Papas",
+    "precio_crc": 4500,
+    "img": "assets/img/galeria/monster-papas.jpg",
+    "desc": "Papas fritas con pollo, salchichas, queso cheddar, frijoles molidos, mayonesa de la casa, salsa de tomate y pico de gallo."
+  },
+  {
+    "id": 5,
+    "nombre": "Bowl de Chifrijo",
+    "precio_crc": 4500,
+    "img": "assets/img/galeria/chifrijo.jpg",
+    "desc": "Chicharrón, arroz, frijoles tiernos, pico de gallo, aguacate y chips."
+  },
+  {
+    "id": 6,
+    "nombre": "Tacos de birria de res (5u)",
+    "precio_crc": 5500,
+    "img": "assets/img/galeria/tacos-birria.jpg",
+    "desc": "5 tacos de birria de res acompañados de caldo de birria, cebolla, culantro y limón."
+  },
+  {
+    "id": 7,
+    "nombre": "Tacos al pastor (5u)",
+    "precio_crc": 5000,
+    "img": "assets/img/galeria/taco-pastor.jpeg ",
+    "desc": "5 tacos al pastor acompañados de salsa roja, cebolla y culantro."
+  },
+  {
+    "id": 8,
+    "nombre": "Pollo al horno (2 piezas)",
+    "precio_crc": 4200,
+    "img": "assets/img/galeria/pollo-horno.jpg",
+    "desc": "Pollo al horno acompañado de yuca frita con salsa de la casa y ensalada."
+  },
+  {
+    "id": 9,
+    "nombre": "Super nachos mixtos",
+    "precio_crc": 4500,
+    "img": "assets/img/galeria/supernachos.png",
+    "desc": "Nachos con carne, pollo, lechuga, queso cheddar, salsa de tomate, natilla, pico de gallo, aguacate y salsa de la casa."
+  },
+  {
+    "id": 10,
+    "nombre": "Sopa Azteca con pollo",
+    "precio_crc": 4000,
+    "img": "assets/img/galeria/sopa-azteca.png",
+    "desc": "Sopa mexicana con pollo, queso, aguacate y chips."
+  },
+  {
+    "id": 11,
+    "nombre": "Rice & Beans con pollo caribeño",
+    "precio_crc": 5500,
+    "img": "assets/img/galeria/rice-and-beans.jpg",
+    "desc": "Platillo caribeño con arroz y frijoles al estilo tradicional, pollo caribeño y plátano maduro."
+  },
+  {
+    "id": 12,
+    "nombre": "Ceviche caribeño + chips de plátano",
+    "precio_crc": 3000,
+    "img": "assets/img/galeria/ceviche-caribeño.jpg",
+    "desc": "Ceviche fresco estilo caribeño acompañado de chips de plátano."
+  },
+  {
+    "id": 13,
+    "nombre": "Paty casero",
+    "precio_crc": 2000,
+    "img": "assets/img/galeria/paty.jpg",
+    "desc": "Empanada caribeña casera rellena de carne especiada."
+  }
+]

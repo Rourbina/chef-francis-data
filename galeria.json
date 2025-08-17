@@ -1,0 +1,14 @@
+[
+  {"src":"assets/img/galeria/chef.jpg","alt":"Chef en evento","cat":"eventos"},
+  {"src":"assets/img/galeria/chifrijo.jpg","alt":"Chifrijo","cat":"platos"},
+  {"src":"assets/img/galeria/costilla-bbq.jpg","alt":"Costilla BBQ","cat":"platos"},
+  {"src":"assets/img/galeria/Hamburguesa.jpg","alt":"Hamburguesa","cat":"platos"},
+  {"src":"assets/img/galeria/actividad1.jpg","alt":"Actividad 1","cat":"eventos"},
+  {"src":"assets/img/galeria/actividad2.jpg","alt":"Actividad 2","cat":"eventos"},
+  {"src":"assets/img/galeria/ceviche-caribeño.jpg","alt":"Ceviche caribeño","cat":"platos"},
+  {"src":"assets/img/galeria/sopa-azteca.png","alt":"Sopa azteca","cat":"platos"},
+  {"src":"assets/img/galeria/monster-papas.jpg","alt":"Monster papas","cat":"platos"},
+  {"src":"assets/img/galeria/pollo-horno.jpg","alt":"Pollo al horno","cat":"platos"},
+  {"src":"assets/img/galeria/postre1.jpg","alt":"Postre 1","cat":"postres"},
+  {"src":"assets/img/galeria/postre2.jpg","alt":"Postre 2","cat":"postres"}
+]
