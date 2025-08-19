@@ -11,7 +11,9 @@
     "nombre": "Hamburguesa artesanal",
     "precio_crc": 5000,
     "img": "assets/img/galeria/hamburguesa.jpg",
-    "desc": "100% artesanal con res o cerdo, queso americano, salsa de la casa, pepinos encurtidos, repollo, lechuga, tomate y cebolla caramelizada. Acompañada de papas fritas."
+    "desc": "100% artesanal con res o cerdo, queso americano, salsa de la casa, pepinos encurtidos, repollo, lechuga, tomate y cebolla caramelizada. Acompañada de papas fritas.",
+    "promo": true,
+    "descuento": 0.10
   },
   {
     "id": 3,
@@ -45,7 +47,7 @@
     "id": 7,
     "nombre": "Tacos al pastor (5u)",
     "precio_crc": 5000,
-    "img": "assets/img/galeria/taco-pastor.jpeg ",
+    "img": "assets/img/galeria/taco-pastor.jpeg",
     "desc": "5 tacos al pastor acompañados de salsa roja, cebolla y culantro."
   },
   {
@@ -74,7 +76,9 @@
     "nombre": "Rice & Beans con pollo caribeño",
     "precio_crc": 5500,
     "img": "assets/img/galeria/rice-and-beans.jpg",
-    "desc": "Platillo caribeño con arroz y frijoles al estilo tradicional, pollo caribeño y plátano maduro."
+    "desc": "Platillo caribeño con arroz y frijoles al estilo tradicional, pollo caribeño y plátano maduro.",
+    "promo": true,
+    "descuento": 0.15
   },
   {
     "id": 12,
